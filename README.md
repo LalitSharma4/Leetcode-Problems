@@ -4,16 +4,16 @@ LeetCode Problem Solutions | Solving DSA challenges to enhance problem-solving s
 
 Problems
 
-Merge Two Sorted Lists : https://leetcode.com/problems/merge-two-sorted-lists/description/
+[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 
-Remove Duplicates from Sorted List : https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 
- Linked List Cycle : https://leetcode.com/problems/linked-list-cycle/description/
+ [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 
- Linked List Cycle II : https://leetcode.com/problems/linked-list-cycle-ii/description/
+ [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 
- Happy Number : https://leetcode.com/problems/happy-number/description/
+ [Happy Number](https://leetcode.com/problems/happy-number/description/)
 
- Set Matrix Zeroes : https://leetcode.com/problems/set-matrix-zeroes/description/
+ [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
 
- Snake in Matrix : [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/description/)
+ [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/description/)
