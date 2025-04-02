@@ -13,3 +13,7 @@ Remove Duplicates from Sorted List : https://leetcode.com/problems/remove-duplic
  Linked List Cycle II : https://leetcode.com/problems/linked-list-cycle-ii/description/
 
  Happy Number : https://leetcode.com/problems/happy-number/description/
+
+ Set Matrix Zeroes : https://leetcode.com/problems/set-matrix-zeroes/description/
+
+ Snake in Matrix : https://leetcode.com/problems/snake-in-matrix/description/
