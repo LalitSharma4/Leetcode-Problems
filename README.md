@@ -16,4 +16,4 @@ Remove Duplicates from Sorted List : https://leetcode.com/problems/remove-duplic
 
  Set Matrix Zeroes : https://leetcode.com/problems/set-matrix-zeroes/description/
 
- Snake in Matrix : https://leetcode.com/problems/snake-in-matrix/description/
+ Snake in Matrix : [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/description/)
