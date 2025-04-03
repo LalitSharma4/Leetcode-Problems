@@ -17,3 +17,5 @@ Problems
  [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
 
  [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/description/)
+
+ [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
