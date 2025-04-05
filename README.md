@@ -25,3 +25,13 @@ Problems
  [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
 
  [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
+
+ [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+
+ [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
+
+ [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+
+ [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
+
+ [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
