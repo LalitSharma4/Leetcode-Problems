@@ -35,3 +35,5 @@ Problems
  [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
 
  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+
+ [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
