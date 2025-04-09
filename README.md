@@ -39,3 +39,5 @@ Problems
  [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
 
  [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) 
+
+ [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/description/) 
