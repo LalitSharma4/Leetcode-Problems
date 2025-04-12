@@ -29,7 +29,7 @@ Problems
  [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/description/)
 
  [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)
- 
+
  [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 
  [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
@@ -40,4 +40,6 @@ Problems
 
  [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
 
- [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) 
+[Power of Four](https://leetcode.com/problems/power-of-four/description/)
+
+[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)
