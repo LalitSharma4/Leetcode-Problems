@@ -26,15 +26,11 @@ Problems
 
  [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 
-<<<<<<< HEAD
  [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/description/)
 
  [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)
  
-=======
  [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
-
- [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 
  [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
 
@@ -45,5 +41,3 @@ Problems
  [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
 
  [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) 
-
->>>>>>> 602cbd82a62a639579ea0ab0130d3f1ab114ccdf
