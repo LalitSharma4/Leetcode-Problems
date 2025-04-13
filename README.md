@@ -43,3 +43,5 @@ Problems
 [Power of Four](https://leetcode.com/problems/power-of-four/description/)
 
 [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)
+
+[Power of Two](https://leetcode.com/problems/power-of-two/description/)
