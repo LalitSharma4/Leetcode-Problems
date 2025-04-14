@@ -45,3 +45,5 @@ Problems
 [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)
 
 [Power of Two](https://leetcode.com/problems/power-of-two/description/)
+
+[Counting Bits](https://leetcode.com/problems/counting-bits/description/)
