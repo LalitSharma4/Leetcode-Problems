@@ -49,3 +49,5 @@ Problems
 [Counting Bits](https://leetcode.com/problems/counting-bits/description/)
 
 [Number Complement](https://leetcode.com/problems/number-complement/description/)
+
+[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
