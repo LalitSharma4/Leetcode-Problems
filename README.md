@@ -55,3 +55,5 @@ Problems
 [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/)
 
 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+
+[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)
