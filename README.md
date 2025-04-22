@@ -59,3 +59,5 @@ Problems
 [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)
 
 [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
+
+[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/)
