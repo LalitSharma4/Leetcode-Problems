@@ -65,3 +65,5 @@ Problems
 [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
 
 [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/1616899392/)
+
+[Rotate Array](https://leetcode.com/problems/rotate-array/description/)
