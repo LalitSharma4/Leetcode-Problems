@@ -73,3 +73,5 @@ Problems
 [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 
 [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/)
+
+[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
