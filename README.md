@@ -75,3 +75,5 @@ Problems
 [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/)
 
 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+
+[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
