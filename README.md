@@ -77,3 +77,5 @@ Problems
 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
 [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
+[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
